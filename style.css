@@ -23,3 +23,15 @@ h1 {
 .tagline { font-size: 1.125rem; line-height: 1.5; margin-top: .5rem; }
 .fine-print { font-size: .8rem; opacity: .7; margin-top: 1rem; }
 nav a { margin-right: .75rem; text-decoration: none; }
+
+/* Markdown page typography */
+.prose { max-width: 800px; margin: 0 auto; text-align: left; line-height: 1.6; font-size: 1rem; }
+.prose h2 { font-size: 1.75rem; margin-top: .5rem; color: #6b4f2c; }
+.prose h3 { font-size: 1.25rem; margin-top: 1.25rem; color: #6b4f2c; }
+.prose p { margin: .75rem 0; }
+.prose ul, .prose ol { padding-left: 1.25rem; margin: .5rem 0 .75rem; }
+.prose a { color: #5b3fc1; text-decoration: none; }
+.prose a:hover { text-decoration: underline; }
+
+/* Slightly larger header glyph */
+.site-logo { height: 64px; inline-size: auto; vertical-align: middle; }
