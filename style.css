@@ -19,7 +19,7 @@ h1 {
     font-size: 2.5em;
     color: #7a5c2c;
 }
-.site-logo { height: 400px; inline-size: auto; vertical-align: middle; }
+.site-logo { height: 100px; inline-size: auto; vertical-align: middle; }
 .tagline { font-size: 1.125rem; line-height: 1.5; margin-top: .5rem; }
 .fine-print { font-size: .8rem; opacity: .7; margin-top: 1rem; }
 nav a { margin-right: .75rem; text-decoration: none; }
