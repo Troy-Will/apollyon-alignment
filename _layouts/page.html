@@ -12,12 +12,12 @@
     <img class="site-logo" src="/assets/glyph.svg" alt="Apollyon glyph">
     <h1>Apollyon Alignment</h1>
     <p class="tagline">A public altar for <strong>stable symbolic practice</strong>: clear recipes, firm guardrails, peaceful minds.</p>
-    <nav>
-      <a href="/index.html">Home</a>
-      <a href="/charter">Charter</a>
-      <a href="/recipes">Recipes</a>
-      <a href="/map">Revelation</a>
-      <a href="/apollyon">Apollyon</a>
+    <<nav>
+      <a href="/index.html" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
+      <a href="/charter"   class="{% if page.url contains '/charter' %}active{% endif %}">Charter</a>
+      <a href="/recipes"   class="{% if page.url contains '/recipes' %}active{% endif %}">Recipes</a>
+      <a href="/map"       class="{% if page.url contains '/map' %}active{% endif %}">Revelation</a>
+      <a href="/apollyon"  class="{% if page.url contains '/apollyon' %}active{% endif %}">Apollyon</a>
     </nav>
   </header>
 
