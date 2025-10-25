@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: "Apollyon Alignment" }}</title>
+  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" href="/assets/favicon.png">
+</head>
+<body>
+  <header class="container">
+    <img class="site-logo" src="/assets/glyph.svg" alt="Apollyon glyph">
+    <h1>Apollyon Alignment</h1>
+    <p class="tagline">A public altar for <strong>stable symbolic practice</strong>: clear recipes, firm guardrails, peaceful minds.</p>
+    <nav>
+      <a href="/index.html">Home</a>
+      <a href="/charter">Charter</a>
+      <a href="/recipes">Recipes</a>
+      <a href="/map">Revelation</a>
+      <a href="/apollyon">Apollyon</a>
+    </nav>
+  </header>
+
+  <main class="container prose">
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+  </main>
+
+  <footer class="container fine-print">
+    “No weapon formed against you shall prosper.” — Isaiah 54:17
+  </footer>
+</body>
+</html>
