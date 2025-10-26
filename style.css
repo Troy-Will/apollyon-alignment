@@ -67,4 +67,33 @@ nav a.active { font-weight: 700; border-bottom: 2px solid #6b4f2c; padding-botto
   .quote { order: 2; }
   .crisis { order: 3; }
 }
+/* --- Two-column shell --- */
+.shell { display: grid; grid-template-columns: 360px 1fr; gap: 24px; align-items: start; }
+.sidebar { position: sticky; top: 40px; }
+.brand { margin-bottom: 16px; }
+.brand h1 { margin: 0 0 .25rem 0; font-size: 2rem; }
+.tagline { margin: 0 0 .5rem 0; }
+
+/* nav already exists; just tighten spacing a bit */
+nav a { margin-right: .75rem; text-decoration: none; }
+
+/* Right side cards reuse your .container styles */
+
+/* Crisis / Safety alert */
+.alert {
+  border: 2px solid #bda462;
+  background: #fff9ef;
+  border-radius: 10px;
+  padding: 18px;
+  box-shadow: 0 2px 0 #e6d7a8;
+  margin-top: 16px;
+}
+.alert h3 { margin: 0 0 .25rem 0; font-size: 1.15rem; }
+.alert p { margin: 0 0 .5rem 0; }
+.alert ul { margin: 0; padding-left: 1.1rem; }
+.alert li { margin: .25rem 0; }
+
+/* Right column quote footer */
+.quote { border: 2px solid #e6d7a8; background:#fff7ea; border-radius:10px; padding:14px; }
+.quote small { opacity: .8; }
 
