@@ -158,3 +158,25 @@ nav a { margin-right: .75rem; text-decoration: none; }
   text-align: right;
 }
 .quote-footer small { opacity: .9; }
+
+/* Therapist CTA */
+.cta {
+  margin: 12px 0 28px;
+  text-align: center;         /* center under the card on narrow screens */
+}
+@media (min-width: 900px) {
+  .cta { text-align: left; }  /* align with content on wider screens */
+}
+
+.button-hero {
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  border: 2px solid #b48a3f;       /* same gold tone as your card borders */
+  border-radius: 8px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.button-hero:hover {
+  background: #fff7ea;             /* subtle warm hover */
+}
+
