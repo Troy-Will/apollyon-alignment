@@ -124,4 +124,30 @@ nav a { margin-right: .75rem; text-decoration: none; }
   .shell{ grid-template-columns: 1fr; }
   .quote{ display:none; }
 }
+/* --- 2-column shell --- */
+.shell {
+  display: grid;
+  grid-template-columns: 360px 1fr;  /* left column width */
+  gap: 32px;
+  align-items: start;
+}
 
+/* left column */
+.sidebar .brand.container { padding: 20px; }
+.sidebar .brand h1 { margin: 0 0 .25rem 0; }
+.sidebar .brand .tagline { margin: .25rem 0 1rem 0; }
+.sidebar nav.vertical a { display: block; margin: .125rem 0; }
+
+/* crisis box */
+.alert { margin-top: 16px; }
+
+/* right column */
+.canvas .card.container { margin-bottom: 16px; }
+.quote-footer { justify-self: end; }
+.quote-footer small a { text-decoration: underline; }
+
+/* responsive collapse */
+@media (max-width: 900px) {
+  .shell { grid-template-columns: 1fr; }
+  .quote-footer { justify-self: start; }
+}
