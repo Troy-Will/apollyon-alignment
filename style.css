@@ -151,3 +151,10 @@ nav a { margin-right: .75rem; text-decoration: none; }
   .shell { grid-template-columns: 1fr; }
   .quote-footer { justify-self: start; }
 }
+/* Nudge the page quote to the right on Home */
+.quote-footer {
+  max-width: 520px;
+  margin: 12px 0 0 auto;  /* pushes it to the right */
+  text-align: right;
+}
+.quote-footer small { opacity: .9; }
