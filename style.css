@@ -37,3 +37,34 @@ nav a { margin-right: .75rem; text-decoration: none; }
 .site-logo { height: 64px; inline-size: auto; vertical-align: middle; }
 
 nav a.active { font-weight: 700; border-bottom: 2px solid #6b4f2c; padding-bottom: 2px; }
+
+/* --- Top bar --- */
+.topbar { display:flex; align-items:center; justify-content:space-between;
+  padding:.75rem 1rem; border-bottom:2px solid #c2a661; background:#fff4e7; }
+.brand { display:flex; align-items:center; gap:.5rem; }
+.site-name { font-weight:700; letter-spacing:.02em; color:#7a5c2c; }
+.mainnav a { margin-left:.75rem; text-decoration:none; }
+.mainnav a.active { font-weight:700; border-bottom:2px solid #6b4f2c; padding-bottom:2px; }
+
+/* --- Page canvas uses two columns: main card + right rail --- */
+.canvas { display:grid; grid-template-columns: 1.2fr .8fr; gap:1rem; align-items:start; padding:1rem; }
+
+/* Right quote panel */
+.quote { border:2px solid #c2a661; border-radius:10px; background:#fffdf7; padding:1rem; }
+.inline-link { margin-left:.4rem; }
+
+/* Homepage crisis box (left/bottom) */
+.crisis { grid-column: 1 / 2; border:2px dashed #b25b5b; border-radius:10px;
+  background:#fff3f3; padding:1rem; margin-top:.5rem; }
+.crisis strong { display:block; font-size:1.05rem; margin-bottom:.25rem; }
+.crisis ul { margin:.25rem 0 .25rem 1rem; }
+.crisis .fine-print { opacity:.7; font-size:.85rem; }
+
+/* Responsive: stack on small screens */
+@media (max-width: 900px) {
+  .canvas { grid-template-columns: 1fr; }
+  .mainnav { flex-wrap:wrap; }
+  .quote { order: 2; }
+  .crisis { order: 3; }
+}
+
