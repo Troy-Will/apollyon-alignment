@@ -3,6 +3,9 @@ layout: page
 title: For Therapists
 ---
 
+**Key context to review:** [When Therapy Misreads You](/therapy-misreads-you/)
+
+
 **Purpose.** This site is a *prototype* for a calm, safe, symbolic practice. It offers short “recipes” with firm guardrails to help users build stable attention and meaning-making **in ordinary time**.
 
 **What I’m testing**
