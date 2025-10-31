@@ -158,7 +158,7 @@ nav.vertical a.active{ text-decoration: underline; }
 
 /* Big emblem (EASY SIZE KNOB) */
 .emblem img{
-  width: 190px;            /* ← change this to adjust the BIG emblem size */
+  width: 90px;            /* ← change this to adjust the BIG emblem size */
   height: auto;
   filter: drop-shadow(0 1px 0 rgba(0,0,0,.04));
   -webkit-user-drag: none;
