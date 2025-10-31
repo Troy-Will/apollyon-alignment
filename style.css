@@ -73,4 +73,22 @@ nav.vertical a.active{border-bottom:2px solid var(--ink); display:inline-block}
 /* Utility spacing for the left intro card (manifest paragraph block) if you use it below the brand */
 .manifest.card{font-size:.975rem}
 
+/* === Left brand card sizing (logo + title + tagline) === */
+.sidebar .brand img.site-logo {
+  width: 72px;      /* tweak: 60–90px usually looks good */
+  height: auto;
+}
+
+.sidebar .brand h1 {
+  font-size: 1.75rem;   /* tweak: 1.5–2rem */
+  line-height: 1.15;
+  margin: .25rem 0 .35rem;
+}
+
+.sidebar .brand .tagline {
+  font-size: .95rem;    /* tweak: .9–1rem */
+  line-height: 1.35;
+}
+
+
 /* END */
