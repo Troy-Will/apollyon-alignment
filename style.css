@@ -231,4 +231,46 @@ nav a { margin-right: .75rem; text-decoration: none; }
   border-bottom: 2px solid var(--ink, #5b3f00);
   display: inline-block;          /* underline matches text width, not full line */
 }
+/* Right-rail container (bottom-right) */
+.right-rail{
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  z-index: 999;
+}
+
+/* Counter pill */
+.visit-widget{
+  background: #fff9ed;              /* matches your parchment tone */
+  border: 2px solid #d5b66a;        /* your gold border color */
+  border-radius: 12px;
+  padding: .4rem .7rem;
+  box-shadow: 0 2px 0 rgba(0,0,0,.06);
+  font-weight: 700;
+  font-family: inherit;
+  text-align: center;
+  line-height: 1.1;
+}
+.visit-label{ font-size: .8rem; opacity: .75; margin-bottom: .15rem; }
+.visit-count{ font-size: 1.25rem; }
+
+/* Big emblem */
+.right-rail .emblem img{
+  width: 160px;           /* adjust size here */
+  height: auto;
+  opacity: .92;
+  filter: drop-shadow(0 1px 0 rgba(0,0,0,.04));
+  image-rendering: auto;
+  -webkit-user-drag: none;
+}
+
+/* Respect small screens */
+@media (max-width: 900px){
+  .right-rail{ right: .75rem; bottom: .75rem; }
+  .right-rail .emblem img{ width: 110px; }
+}
 
