@@ -26,7 +26,7 @@ a:hover{text-decoration:underline}
 .sidebar .card{margin-bottom:18px}
 /* Brand split into header + tagline */
 .brand-card .brand-header{display:flex; align-items:center; gap:14px}
-.brand-card .site-logo{width:56px; height:auto; flex:0 0 auto}
+.brand-card .site-logo{width:24px; height:auto; flex:0 0 auto}
 .brand-card .site-title{margin:0; font-weight:800; font-size:28px; line-height:1.1; color:#6b4f1e}
 .brand-card .brand-tagline{margin:.25rem 0 0; font-size:15px}
 /* Vertical nav, right aligned */
