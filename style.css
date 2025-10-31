@@ -75,7 +75,7 @@ nav.vertical a.active{border-bottom:2px solid var(--ink); display:inline-block}
 
 /* === Left brand card sizing (logo + title + tagline) === */
 .sidebar .brand img.site-logo {
-  width: 72px;      /* tweak: 60–90px usually looks good */
+  width: 22px;      /* tweak: 60–90px usually looks good */
   height: auto;
 }
 
