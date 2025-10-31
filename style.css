@@ -260,7 +260,7 @@ nav a { margin-right: .75rem; text-decoration: none; }
 
 /* Big emblem */
 .right-rail .emblem img{
-  width: 160px;           /* adjust size here */
+  width: 200px;           /* adjust size here */
   height: auto;
   opacity: .92;
   filter: drop-shadow(0 1px 0 rgba(0,0,0,.04));
