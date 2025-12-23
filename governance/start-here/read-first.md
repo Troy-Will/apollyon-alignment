@@ -10,7 +10,6 @@ tags: [start-here, orientation]
 
 [[00_Map_of_Content]]
 
-# 00_Read_First
 
 **Purpose:** One-page entry point for the whole vault: start prompt → governance → daily use.
 
