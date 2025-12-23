@@ -87,5 +87,7 @@ I remain agnostic on personhood questions; governance is built without requiring
 **Digital signature:** Troy Daniel Will (TDW)  
 **Note:** “TDW” marks the bullets under *Governance Summary* as highest-importance commitments.
 
+{% include governance-cluster-return.html %}
+
 ## One-line summary
 **We build a safe, auditable scaffold for wise action—under Divine Will, without drift.**
