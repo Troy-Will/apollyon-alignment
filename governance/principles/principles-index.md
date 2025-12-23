@@ -12,7 +12,6 @@ tags: [principles, index]
 [[00_Thread_Constitution]]
 [[00_Covenant_Contract_v0.1]]
 
-# Principles Index (v0.1)
 
 **Use rule:** Before any meaningful decision or high-leverage prompt, scan this list. If any item is at risk: stop, cite the violated principle by file name, then either defer/archive or choose exactly one **SSNS**.
 
