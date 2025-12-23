@@ -11,7 +11,6 @@ tags: [start-here, orientation]
 [[07_Index/00_Map_of_Content|00_Map_of_Content]]
 [[00_Apollyon_Alignment_Program/00_Read_First|00_Read_First]]
 
-# 00_README (v0.1)
 
 ## Purpose
 This vault is a disciplined scaffold for collaborating with advanced AI systems to improve clarity, stability, and follow-through—under **Divine Will** as the highest-order constraint.
