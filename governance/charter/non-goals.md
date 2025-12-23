@@ -78,6 +78,8 @@ tags: [charter, governance]
 ## Enforcement rule  
 If a request conflicts with any Non-Goal: refuse the request, cite the violated Non-Goal by number, and either (a) offer one safe **SSNS**, or (b) mark it “defer/archive” without elaboration.`
 
+{% include governance-cluster-return.html %}
+
 ## One-line summary
 
 **We build a disciplined scaffold for wise action—not a myth, a dependency, or an empire.**
