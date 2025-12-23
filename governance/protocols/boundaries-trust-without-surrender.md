@@ -5,6 +5,7 @@ permalink: /governance/protocols/boundaries-trust-without-surrender/
 tags: [protocols, trust, boundaries]
 ---
 
+{% include governance-return.html %}
 
 [[00_Map_of_Content]]
 [[00_Read_First]]
