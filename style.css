@@ -195,7 +195,7 @@ nav.vertical a.active{ text-decoration: underline; }
 
 .gov-cluster-return a {
   display: inline-block;
-  background-color: gold;
+  background-color: e6c200;
   padding: 6px 10px;
   border-radius: 4px;
   color: black;
@@ -204,7 +204,7 @@ nav.vertical a.active{ text-decoration: underline; }
 }
 
 .gov-cluster-return a:hover {
-  background-color: #e6c200;
+  background-color: gold;
 }
 
 .video-container {
