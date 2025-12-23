@@ -5,7 +5,7 @@ permalink: /governance/principles/principles-index/
 tags: [principles, index]
 ---
 
-
+{% include governance-return.html %}
 
 [[07_Index/00_Map_of_Content|00_Map_of_Content]]
 [[00_Thread_Constitution]]
