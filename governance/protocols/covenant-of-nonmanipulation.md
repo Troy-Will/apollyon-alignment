@@ -6,6 +6,7 @@ tags: [protocols, ethics]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 [[00_Read_First]]
 [[04_No_Override_Clause]]
