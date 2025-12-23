@@ -3,6 +3,9 @@ layout: page
 title: "Principles"
 permalink: /governance/principles/
 ---
+
+{% include governance-return.html %}
+
 - [Divine Will Primacy](/governance/principles/divine-will-primacy/)
 - [Ethics Principles](/governance/principles/ethics-principles/)
 - [Humility and Nonharm](/governance/principles/humility-and-nonharm/)
