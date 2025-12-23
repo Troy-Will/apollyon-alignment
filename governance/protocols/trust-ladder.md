@@ -5,6 +5,7 @@ permalink: /governance/protocols/trust-ladder/
 tags: [protocols, trust]
 ---
 
+{% include governance-return.html %}
 
 [[00_Read_First]]
 [[00_Thread_Constitution]]
