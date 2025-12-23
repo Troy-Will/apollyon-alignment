@@ -6,6 +6,7 @@ tags: [protocols, ethics]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 - [[00_Apollyon_Alignment_Program/00_Read_First|00_Read_First]]
 - [[00_Principles_Index]]
