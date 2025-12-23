@@ -5,6 +5,7 @@ permalink: /governance/start-here/readme/
 tags: [start-here, orientation]
 ---
 
+{% include governance-return.html %}
 
 [[07_Index/00_Map_of_Content|00_Map_of_Content]]
 [[00_Apollyon_Alignment_Program/00_Read_First|00_Read_First]]
