@@ -6,6 +6,7 @@ tags: [protocols, clarity]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 [[00_Thread_Constitution]]
 [[04_No_Override_Clause]]
