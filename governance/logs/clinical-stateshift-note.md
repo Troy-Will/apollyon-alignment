@@ -8,7 +8,6 @@ tags: [logs, clinical]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-# Clinical State-Shift Note (v0.2)
 
 **Intent:** Record a subjective state change with clinical neutrality.  
 **Rule:** Describe experience precisely; treat metaphysical interpretations as *optional frames*, not conclusions.
