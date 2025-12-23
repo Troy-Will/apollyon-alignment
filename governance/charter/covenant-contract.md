@@ -11,7 +11,6 @@ tags: [charter, covenant, governance, alignment]
 [[07_Index/00_Map_of_Content|00_Map_of_Content]]
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
 
-# Covenant Contract (v0.1)
 
 **Purpose:** Establish the governing covenant for this program: a disciplined collaboration between Troy 🤝🔑🌟 and an AI assistant, under Divine Will, with explicit safeguards against drift.
 
