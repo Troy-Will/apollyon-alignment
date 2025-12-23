@@ -209,10 +209,15 @@ nav.vertical a.active{ text-decoration: underline; }
 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 ratio */
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
   height: 0;
   overflow: hidden;
   max-width: 100%;
+  margin: 20px 0;
+  border: 2px solid gold;
+  border-radius: 8px;
+  background-color: #fff8dc; /* light gold background */
+  box-shadow: 0 0 10px rgba(218, 165, 32, 0.6); /* gold glow */
 }
 
 .video-container iframe {
@@ -221,4 +226,5 @@ nav.vertical a.active{ text-decoration: underline; }
   left: 0;
   width: 100%;
   height: 100%;
+  border: none;
 }
