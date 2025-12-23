@@ -161,6 +161,8 @@ If any tripwire appears (urgency, coercion, secrecy, mission inflation, dependen
 
 ---
 
+{% include governance-cluster-return.html %}
+
 ## One-line summary
 
 **Trust scales usefulness, not authority.**
