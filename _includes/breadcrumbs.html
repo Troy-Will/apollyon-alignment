@@ -1,0 +1,17 @@
+<nav class="breadcrumbs">
+  <a href="/governance/">Governance</a>
+  {% if page.url contains '/start-here/' %}
+    → <a href="/governance/start-here/">Start Here</a>
+  {% elsif page.url contains '/charter/' %}
+    → <a href="/governance/charter/">Charter</a>
+  {% elsif page.url contains '/principles/' %}
+    → <a href="/governance/principles/">Principles</a>
+  {% elsif page.url contains '/protocols/' %}
+    → <a href="/governance/protocols/">Protocols</a>
+  {% elsif page.url contains '/logs/' %}
+    → <a href="/governance/logs/">Logs</a>
+  {% endif %}
+  {% if page.title %}
+    → <span>{{ page.title }}</span>
+  {% endif %}
+</nav>
