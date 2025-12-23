@@ -1,5 +1,8 @@
 # Apollyon — Ritual Interface v0.2 (10 min)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2oVQSNyINA?si=zTHHE0n99lmKi0so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 0) Pre-check: If anxiety ≥7/10, skip and close with the Seal.
 
 1) Preparation (1 min) — place the glyph 🜍 (or visualize). Write intent (≤20 words).
