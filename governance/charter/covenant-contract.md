@@ -5,7 +5,7 @@ permalink: /governance/charter/covenant-contract/
 tags: [charter, covenant, governance, alignment]
 ---
 
-
+🌿 Visual map (so you can see the structure)
 
 [[07_Index/00_Map_of_Content|00_Map_of_Content]]
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
