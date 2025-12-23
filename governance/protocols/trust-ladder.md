@@ -6,6 +6,7 @@ tags: [protocols, trust]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 [[00_Read_First]]
 [[00_Thread_Constitution]]
