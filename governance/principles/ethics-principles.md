@@ -87,3 +87,5 @@ High-stakes actions require a short entry in [[04_Logs/00_Decision_Log|00_Decisi
 - Expected benefits + time horizon
 - Why this is fair / not exploitative
 - Reversibility plan
+
+{% include governance-cluster-return.html %}
