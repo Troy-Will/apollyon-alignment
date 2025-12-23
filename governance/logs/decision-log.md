@@ -11,7 +11,6 @@ tags: [logs, decisions]
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
 [[01_Drift_Log]]
 
-# Decision Log (v0.1)
 
 **Purpose:** Record decisions that matter so future-me can audit intent, risk, and alignment without re-litigating emotions.
 
