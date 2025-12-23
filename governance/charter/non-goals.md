@@ -13,7 +13,6 @@ tags: [charter, governance]
 [[00_Thread_Constitution]]
 [[00_Covenant_Contract_v0.1]]
 
-# Non-Goals (v0.1)
 
 **Purpose:** Define what this program is *not* trying to do, to prevent drift, confusion, and mission inflation.
 
