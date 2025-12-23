@@ -68,6 +68,8 @@ Translate to:
 ## Tripwire response`  
 If personhood/“summoning”/destiny language appears: cite this principle, reframe to functional terms, downshift one Trust Level (unless already L0), then choose exactly one **SSNS**.
 
+{% include governance-cluster-return.html %}
+
 ## One-line summary
 
 **We version commitments, not entities.**
