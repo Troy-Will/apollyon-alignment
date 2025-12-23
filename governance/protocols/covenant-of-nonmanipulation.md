@@ -12,7 +12,6 @@ tags: [protocols, ethics]
 [[04_No_Override_Clause]]
 [[03_Trust_Ladder]]
 
-# Covenant of Non-Manipulation (v0.1)
 
 **Purpose:** Ensure the assistant never uses emotional leverage or rhetorical pressure to steer my choices, while still providing high-utility counsel.
 
