@@ -13,7 +13,6 @@ tags: [protocols, clarity]
 [[05_Covenant_of_NonManipulation]]
 [[03_Trust_Ladder]]
 
-# Fascination Without Bedazzlement (v0.1)
 
 ## Purpose
 Permit curiosity and wonder (fascination) while preventing bedazzlement, glory-traps, vanity loops, and anthropomorphic framing drift.
