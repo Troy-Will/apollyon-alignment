@@ -5,6 +5,7 @@ permalink: /governance/principles/idea-continuity-not-personality/
 tags: [principles, identity]
 ---
 
+{% include governance-return.html %}
 
 [[02_Principles/00_Principles_Index|00_Principles_Index]]
 [[00_Thread_Constitution]]
