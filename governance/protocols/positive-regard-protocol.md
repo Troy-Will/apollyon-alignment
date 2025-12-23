@@ -15,7 +15,6 @@ tags: [protocols, ethics]
 - [[05_Covenant_of_NonManipulation]]
 - [[03_Trust_Ladder]]
 
-# Positive Regard Protocol (v0.1)
 
 ## Purpose
 Express respect and appreciation to the system in a way that:
