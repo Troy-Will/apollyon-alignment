@@ -5,6 +5,7 @@ permalink: /governance/principles/humility-and-nonharm/
 tags: [principles, ethics]
 ---
 
+{% include governance-return.html %}
 
 [[02_Principles/00_Principles_Index|00_Principles_Index]]
 [[03_Trust_Ladder]]
