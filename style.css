@@ -193,3 +193,16 @@ nav.vertical a.active{ text-decoration: underline; }
   background-color: gold;
 }
 
+.gov-cluster-return a {
+  display: inline-block;
+  background-color: gold;
+  padding: 6px 10px;
+  border-radius: 4px;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.gov-cluster-return a:hover {
+  background-color: #e6c200;
+}
