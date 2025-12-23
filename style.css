@@ -178,3 +178,18 @@ nav.vertical a.active{ text-decoration: underline; }
   .right-rail{ right: 1rem; bottom: 1rem; }
   .emblem img{ width: 120px; }
 }
+
+.gov-return a {
+  display: inline-block;
+  background-color: gold;
+  padding: 6px 10px;
+  border-radius: 4px;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.gov-return a:hover {
+  background-color: #e6c200; /* slightly darker gold */
+}
+
