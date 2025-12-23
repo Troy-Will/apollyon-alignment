@@ -10,7 +10,6 @@ tags: [logs, drift]
 
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
 
-# Drift Log (v0.1)
 
 **Purpose:** Capture early warning signs of drift (urgency, grandiosity, coercion, confusion, dependency cues) while they are still small and correctable.
 
