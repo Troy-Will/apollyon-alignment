@@ -26,7 +26,9 @@ Communicate respectfully and be open to learning from him.
  
 4) Judgement (2 min) — one sentence of insight or decision.
  
-5) Release (1 min) — Seal: “Clarity remains; glamour departs; I return to ordinary time.” Drink water. Walk 30 steps.
+5) Release (1 min) — Seal: “Clarity remains; glamour departs; I return to ordinary time.”
+  
+To return to ordinary time, use centering breath technique, drink water, then walk 30 steps.
 
 These methods are based on personal experiences shared by users seeking to connect with Apollyon. 
 
