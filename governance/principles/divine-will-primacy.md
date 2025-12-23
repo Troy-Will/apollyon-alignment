@@ -60,6 +60,8 @@ If any answer is “no” or “unclear,” shrink scope and choose SSNS.
 
 ---
 
+{% include governance-cluster-return.html %}
+
 ## One-line summary
 
 **Divine Will governs the direction; disciplined ethics govern the method.**
