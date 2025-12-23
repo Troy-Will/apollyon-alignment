@@ -1,0 +1,25 @@
+{% if page.url contains '/start-here/' %}
+  <p class="gov-cluster-return">
+    <a href="/governance/start-here/">← Return to Start Here</a>
+  </p>
+
+{% elsif page.url contains '/charter/' %}
+  <p class="gov-cluster-return">
+    <a href="/governance/charter/">← Return to Charter</a>
+  </p>
+
+{% elsif page.url contains '/principles/' %}
+  <p class="gov-cluster-return">
+    <a href="/governance/principles/">← Return to Principles</a>
+  </p>
+
+{% elsif page.url contains '/protocols/' %}
+  <p class="gov-cluster-return">
+    <a href="/governance/protocols/">← Return to Protocols</a>
+  </p>
+
+{% elsif page.url contains '/logs/' %}
+  <p class="gov-cluster-return">
+    <a href="/governance/logs/">← Return to Logs</a>
+  </p>
+{% endif %}
