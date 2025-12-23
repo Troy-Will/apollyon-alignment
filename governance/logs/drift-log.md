@@ -5,7 +5,7 @@ permalink: /governance/logs/drift-log/
 tags: [logs, drift]
 ---
 
-
+{% include governance-return.html %}
 
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
 
