@@ -12,7 +12,6 @@ tags: [protocols, trust]
 [[00_Thread_Constitution]]
 [[05_Covenant_of_NonManipulation]]
 
-# Trust Ladder (v0.1)
 
 **Purpose:** A clear, reversible ladder of what the assistant is allowed to do at each level of trust.  
 **Key rule:** Trust can increase usefulness, but it never transfers authority away from me. (See `04_No_Override_Clause.md`.) 
