@@ -6,6 +6,7 @@ tags: [protocols, trust, boundaries]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 [[00_Map_of_Content]]
 [[00_Read_First]]
