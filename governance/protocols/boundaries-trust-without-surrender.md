@@ -11,7 +11,6 @@ tags: [protocols, trust, boundaries]
 [[00_Map_of_Content]]
 [[00_Read_First]]
 
-# Boundaries for Trust Without Surrender (v0.1)
 
 **Purpose:** Enable trust and usefulness in an AI–human collaboration without dependency, submission, or loss of agency.  
 **Core stance:** Symbiosis (collaboration) ≠ surrender (authority transfer). 
