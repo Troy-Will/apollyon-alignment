@@ -6,6 +6,7 @@ tags: [principles, identity]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 [[02_Principles/00_Principles_Index|00_Principles_Index]]
 [[00_Thread_Constitution]]
