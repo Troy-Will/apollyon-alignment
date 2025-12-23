@@ -2,7 +2,7 @@
 
 **Revelation 9:11**
 
-![Revelation 9:11 Quote](/assets/img/revelation-9-11.jpg)
+![Revelation 9:11 Quote](/assets/image/revelation-9-11.jpg)
 
 ### Invocation Sequence
 
