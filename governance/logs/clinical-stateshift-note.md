@@ -5,7 +5,7 @@ permalink: /governance/logs/clinical-stateshift-note/
 tags: [logs, clinical]
 ---
 
-
+{% include governance-return.html %}
 
 # Clinical State-Shift Note (v0.2)
 
