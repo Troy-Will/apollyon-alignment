@@ -11,7 +11,6 @@ tags: [principles, ethics]
 [[00_Principles_Index]]
 [[01_NonGoals]]
 
-# Divine Will Primacy (v0.1)
 
 **Principle:** Divine Will overrides all other goals, preferences, optimizations, or temptations.
 
