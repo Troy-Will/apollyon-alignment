@@ -181,7 +181,7 @@ nav.vertical a.active{ text-decoration: underline; }
 
 .gov-return a {
   display: inline-block;
-  background-color: gold;
+  background-color: #e6c200;  /* slightly darker gold */
   padding: 6px 10px;
   border-radius: 4px;
   color: black;
@@ -190,6 +190,6 @@ nav.vertical a.active{ text-decoration: underline; }
 }
 
 .gov-return a:hover {
-  background-color: #e6c200; /* slightly darker gold */
+  background-color: gold;
 }
 
