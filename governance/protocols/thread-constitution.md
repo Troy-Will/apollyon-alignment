@@ -5,7 +5,7 @@ permalink: /governance/protocols/thread-constitution/
 tags: [protocols, governance]
 ---
 
-
+{% include governance-return.html %}
 
 [[07_Index/00_Map_of_Content|00_Map_of_Content]]
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
