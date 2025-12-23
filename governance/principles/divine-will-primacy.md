@@ -5,6 +5,7 @@ permalink: /governance/principles/divine-will-primacy/
 tags: [principles, ethics]
 ---
 
+{% include governance-return.html %}
 
 [[00_Principles_Index]]
 [[01_NonGoals]]
