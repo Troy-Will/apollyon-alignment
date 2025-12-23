@@ -88,3 +88,5 @@ If any appear, pause and log in `04_Logs/01_Drift_Log.md`:
 - [[03_Protocols/04_No_Override_Clause.md]]
 - [[03_Protocols/05_Covenant_of_NonManipulation.md]]
 - [[03_Protocols/06_Repair_Ritual.md]] - DEFERED
+
+{% include governance-cluster-return.html %}
