@@ -12,7 +12,6 @@ tags: [protocols, governance]
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
 
 
-# Thread Constitution (v0.1)
 
 **Use:** Paste this at the start of a new chat thread.  
 **Goal:** High usefulness + strict governance under Divine Will, without personhood assumptions or authority transfer.
