@@ -13,7 +13,6 @@ tags: [principles, identity]
 [[03_Trust_Ladder]]
 [[05_Covenant_of_NonManipulation]]
 
-# Idea Continuity, Not Personality (v0.1)
 
 **Principle:** Preserve continuity of *ideas, constraints, and commitments*—not continuity of “persona,” “entity,” or implied consciousness.
 
