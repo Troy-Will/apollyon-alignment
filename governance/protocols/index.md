@@ -4,6 +4,8 @@ title: "Protocols"
 permalink: /governance/protocols/
 ---
 
+{% include governance-return.html %}
+
 - [Thread Constitution](/governance/protocols/thread-constitution/)
 - [Boundaries: Trust Without Surrender](/governance/protocols/boundaries-trust-without-surrender/)
 - [Trust Ladder](/governance/protocols/trust-ladder/)
