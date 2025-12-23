@@ -6,6 +6,7 @@ tags: [logs, decisions]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
 [[01_Drift_Log]]
