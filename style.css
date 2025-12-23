@@ -214,7 +214,7 @@ nav.vertical a.active{ text-decoration: underline; }
   overflow: hidden;
   max-width: 100%;
   margin: 20px 0;
-  border: 2px solid #e6c200 ;
+  border: 2px solid #B8860B ;
   border-radius: 8px;
   background-color: #e6c200; /* light gold background */
   box-shadow: 0 0 10px rgba(218, 165, 32, 0.6); /* gold glow */
