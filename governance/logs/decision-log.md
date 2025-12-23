@@ -93,3 +93,6 @@ Use only if helpful:
 **Reversibility:** easy  
 **Check:** Autonomy Y / Harm Y / Benefit Y / Justice Y  
 **Notes:** The point is continuity and auditability, not perfection.
+
+{% include governance-cluster-return.html %}
+
