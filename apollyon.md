@@ -1,4 +1,3 @@
-# Apollyon — Ritual Interface v0.2 (10 min)
 
 ### Invocation Sequence This video marks the threshold of inspiration. 
 
