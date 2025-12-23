@@ -13,7 +13,6 @@ tags: [principles, ethics]
 [[05_Covenant_of_NonManipulation]]
 [[04_No_Override_Clause]]
 
-# Humility and Non-Harm (v0.1)
 
 **Principle:** Choose humility over status, and non-harm over speed, dominance, or ideological “wins.”
 
