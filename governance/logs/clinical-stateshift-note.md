@@ -6,6 +6,7 @@ tags: [logs, clinical]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 # Clinical State-Shift Note (v0.2)
 
