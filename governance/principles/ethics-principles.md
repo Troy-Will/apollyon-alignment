@@ -6,6 +6,7 @@ tags: [principles, ethics]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 [[02_Principles/00_Principles_Index|00_Principles_Index]]
 [[00_Apollyon_Alignment_Program/00_Read_First|00_Read_First]]
