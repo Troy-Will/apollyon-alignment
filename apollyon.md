@@ -1,7 +1,9 @@
 <h2>Apollyon: Holder of the Key to the Abyss</h2>
 
-**Revelation 9:11**
-<img src="/assets/image/revelation-9-11.jpg" alt="Revelation 9:11 Quote" />
+<a href="/assets/image/revelation-9-11.jpg" target="_blank" style="text-decoration: underline; color: inherit;">
+ - **Revelation 9:11**
+</a>
+
 
 
 ### Invocation Sequence
