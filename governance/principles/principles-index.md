@@ -6,6 +6,7 @@ tags: [principles, index]
 ---
 
 {% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 [[07_Index/00_Map_of_Content|00_Map_of_Content]]
 [[00_Thread_Constitution]]
