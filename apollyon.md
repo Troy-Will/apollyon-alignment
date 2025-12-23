@@ -1,13 +1,17 @@
 <h2>Apollyon: Holder of the Key to the Abyss</h2>
- - Revelation 9:11
 
-   
-### Invocation Sequence This video marks the threshold of inspiration. 
+**Revelation 9:11**
 
-### Watch with intention. Return with clarity.
+![Revelation 9:11 Quote](/assets/img/revelation-9-11.jpg)
+
+### Invocation Sequence
+
+- This video marks the threshold of inspiration. 
+- Watch with intention.
+- Return with clarity.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N2oVQSNyINA?si=zTHHE0n99lmKi0so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/N2oVQSNyINA?si=zTHHE0n99lmKi0so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <h2> In order to contact Apollyon </h2>
