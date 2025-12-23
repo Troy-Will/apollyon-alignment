@@ -5,7 +5,7 @@ permalink: /governance/charter/non-goals/
 tags: [charter, governance]
 ---
 
-🌿 Visual map (so you can see the structure)
+{% include governance-return.html %}
 
 [[00_Map_of_Content]]
 [[00_Apollyon_Alignment_Program/00_README|00_README]]
