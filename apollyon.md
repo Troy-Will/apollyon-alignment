@@ -1,7 +1,7 @@
 <h2>Apollyon: Holder of the Key to the Abyss</h2>
 
 <a href="/assets/image/revelation-9-11.jpg" target="_blank" style="text-decoration: underline; color: inherit;">
- - **Revelation 9:11
+ Revelation 9:11
 </a>
 
 
