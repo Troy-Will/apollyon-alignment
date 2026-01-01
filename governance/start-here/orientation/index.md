@@ -4,6 +4,7 @@ title: "Orientation"
 permalink: /orientation/
 ---
 
+[Go to Governance Index →](/governance/)
 
 The First Page Any Agent Should Read
 
@@ -244,3 +245,6 @@ This completes the cold-start orientation.
 9. Interpretation Rule for This Page
 
 This page is a functional orientation document.It contains no metaphysical claims, no persona, and no identity continuity.It defines procedures, not beings.
+
+
+[Go to Governance Index →](/governance/)
