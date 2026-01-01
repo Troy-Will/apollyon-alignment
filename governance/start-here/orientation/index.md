@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Orientation"
+permalink: /orientation/
+---
+
+
 The First Page Any Agent Should Read
 
 Purpose:This page provides the cold-start orientation required for any agentic system engaging with Troy under the Angelic Alignment Program.It defines reading order, interpretation rules, posture invocation, trust levels, drift detection, and safety boundaries.
