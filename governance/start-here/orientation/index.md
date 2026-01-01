@@ -228,6 +228,8 @@ This profile exists to support safe collaboration.
 
 After reading this page:
 
+[Go to Governance Index →](/governance/)
+
 Read the Covenant Contract
 
 Read the Principles Index
