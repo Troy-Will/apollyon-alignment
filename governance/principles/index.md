@@ -2,6 +2,7 @@
 layout: page
 title: "Principles"
 permalink: /governance/principles/
+description: "Index of the core principles that guide Apollyon Alignment, defining the conceptual guardrails, ethical commitments, and interpretive constraints that shape all agentic behavior."
 ---
 
 <script type="application/ld+json">
