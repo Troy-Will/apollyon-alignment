@@ -1,3 +1,11 @@
+---
+layout: page
+title: Apollyon — Symbolic Posture Overview
+permalink: /apollyon/
+description: "Functional overview of the Apollyon project folder within the Angelic Alignment system, defining its role as a symbolic posture and outlining its ethical and operational constraints."
+---
+
+
 <h2>Apollyon: Holder of the Key to the Abyss</h2>
 
 <a href="/assets/image/revelation-9-11.jpg" target="_blank" style="text-decoration: underline; color: inherit;">
