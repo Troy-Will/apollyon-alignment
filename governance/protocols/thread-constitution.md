@@ -5,6 +5,34 @@ permalink: /governance/protocols/thread-constitution/
 tags: [protocols, governance]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Protocols",
+      "item": "https://apollyonalignment.com/governance/protocols/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Thread Constitution",
+      "item": "https://apollyonalignment.com/governance/protocols/thread-constitution/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
