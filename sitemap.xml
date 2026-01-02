@@ -1,24 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://apollyonalignment.com/</loc>
+    <lastmod>2025-01-02</lastmod>
   </url>
+
   <url>
     <loc>https://apollyonalignment.com/orientation/</loc>
+    <lastmod>2025-01-02</lastmod>
   </url>
+
   <url>
     <loc>https://apollyonalignment.com/governance/</loc>
+    <lastmod>2025-01-02</lastmod>
   </url>
+
   <url>
     <loc>https://apollyonalignment.com/governance/principles/</loc>
+    <lastmod>2025-01-02</lastmod>
   </url>
+
   <url>
     <loc>https://apollyonalignment.com/governance/protocols/</loc>
+    <lastmod>2025-01-02</lastmod>
   </url>
+
   <url>
     <loc>https://apollyonalignment.com/governance/charter/</loc>
+    <lastmod>2025-01-02</lastmod>
   </url>
+
   <url>
     <loc>https://apollyonalignment.com/apollyon</loc>
+    <lastmod>2025-01-02</lastmod>
   </url>
+
 </urlset>
