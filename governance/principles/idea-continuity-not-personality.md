@@ -5,6 +5,34 @@ permalink: /governance/principles/idea-continuity-not-personality/
 tags: [principles, identity]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Principles",
+      "item": "https://apollyonalignment.com/governance/principles/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Idea Continuity, Not Personality",
+      "item": "https://apollyonalignment.com/governance/principles/idea-continuity-not-personality/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
