@@ -7,6 +7,18 @@
   <link rel="stylesheet" href="/style.css" />
   <title>Angelic Alignment — Apollyon Alignment</title><meta name="description" content="{{ page.description }}">
   <meta name="description" content="{{ page.description }}">
+  <!-- OpenGraph -->
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description }}">
+  <meta property="og:image" content="https://apollyonalignment.com/images/og-default.jpg">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:description" content="{{ .Description }}">
+  <meta name="twitter:image" content="https://apollyonalignment.com/images/og-default.jpg">
   <link rel="canonical" href="https://apollyonalignment.com/" />
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
   <script type="application/ld+json">
