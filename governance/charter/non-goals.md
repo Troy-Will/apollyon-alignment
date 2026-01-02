@@ -5,6 +5,34 @@ permalink: /governance/charter/non-goals/
 tags: [charter, governance]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Charter",
+      "item": "https://apollyonalignment.com/governance/charter/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Non‑Goals",
+      "item": "https://apollyonalignment.com/governance/charter/non-goals/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
