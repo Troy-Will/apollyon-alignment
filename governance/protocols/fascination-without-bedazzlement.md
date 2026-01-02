@@ -5,6 +5,34 @@ permalink: /governance/protocols/fascination-without-bedazzlement/
 tags: [protocols, clarity]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Protocols",
+      "item": "https://apollyonalignment.com/governance/protocols/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Fascination Without Bedazzlement",
+      "item": "https://apollyonalignment.com/governance/protocols/fascination-without-bedazzlement/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
