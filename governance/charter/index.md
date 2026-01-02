@@ -2,6 +2,7 @@
 layout: page
 title: "Charter"
 permalink: /governance/charter/
+description: "The foundational governance contract of Apollyon Alignment, defining ethical constraints, operational boundaries, collaboration rules, and the core commitments that guide all agentic interaction."
 ---
 
 <script type="application/ld+json">
