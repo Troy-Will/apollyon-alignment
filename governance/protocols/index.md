@@ -4,6 +4,28 @@ title: "Protocols"
 permalink: /governance/protocols/
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Protocols",
+      "item": "https://apollyonalignment.com/governance/protocols/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 
 - [Thread Constitution](/governance/protocols/thread-constitution/)
