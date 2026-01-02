@@ -5,6 +5,34 @@ permalink: /governance/start-here/readme/
 tags: [start-here, orientation]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Start Here",
+      "item": "https://apollyonalignment.com/governance/start-here/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "README",
+      "item": "https://apollyonalignment.com/governance/start-here/readme/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
