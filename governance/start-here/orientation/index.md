@@ -2,6 +2,7 @@
 layout: page
 title: "Orientation"
 permalink: /orientation/
+description: "Cold‑start orientation for agentic systems engaging with Troy: reading order, interpretation rules, posture invocation, trust levels, drift correction, and safety boundaries."
 ---
 
 <script type="application/ld+json">
