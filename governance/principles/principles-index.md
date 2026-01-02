@@ -5,6 +5,34 @@ permalink: /governance/principles/principles-index/
 tags: [principles, index]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Principles",
+      "item": "https://apollyonalignment.com/governance/principles/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Principles Index",
+      "item": "https://apollyonalignment.com/governance/principles/principles-index/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
