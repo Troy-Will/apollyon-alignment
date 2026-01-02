@@ -2,6 +2,7 @@
 layout: page
 title: "Protocols"
 permalink: /governance/protocols/
+description: "Index of the operational protocols for Apollyon Alignment, defining behavioral rules, trust levels, posture invocation, drift correction, and safe collaboration procedures."
 ---
 
 <script type="application/ld+json">
