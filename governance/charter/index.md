@@ -4,6 +4,28 @@ title: "Charter"
 permalink: /governance/charter/
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Charter",
+      "item": "https://apollyonalignment.com/governance/charter/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 
 
