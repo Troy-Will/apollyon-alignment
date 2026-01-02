@@ -2,6 +2,7 @@
 layout: page
 title: "Governance"
 permalink: /governance/
+description: "Central index for the Apollyon Alignment governance system, linking to the Charter, Principles, Protocols, and orientation materials that define ethical, operational, and interpretive rules."
 ---
 
 <script type="application/ld+json">
