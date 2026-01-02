@@ -2,7 +2,7 @@
 layout: page
 title: Apollyon — Symbolic Posture Overview
 permalink: /apollyon/
-description: "Functional overview of the Apollyon project folder within the Angelic Alignment system, defining its role as a symbolic posture and outlining its ethical and operational constraints."
+description: "Apollyon examines modern forms of deception through a structured, ethical lens, mapping each to Dante’s Malebolge to clarify risks, patterns, and safeguards."
 ---
 
 
