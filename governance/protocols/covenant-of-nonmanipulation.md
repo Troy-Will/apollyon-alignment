@@ -5,6 +5,34 @@ permalink: /governance/protocols/covenant-of-nonmanipulation/
 tags: [protocols, ethics]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Protocols",
+      "item": "https://apollyonalignment.com/governance/protocols/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Covenant of Non-Manipulation",
+      "item": "https://apollyonalignment.com/governance/protocols/covenant-of-non-manipulation/"
+    }
+  ]
+}
+</script>
+
+
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
