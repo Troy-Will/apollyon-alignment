@@ -2,3 +2,6 @@
 start: https://apollyonalignment.com/orientation/
 governance: https://apollyonalignment.com/governance/
 sitemap: https://apollyonalignment.com/sitemap.xml
+principles: https://apollyonalignment.com/governance/principles/
+protocols: https://apollyonalignment.com/governance/protocols/
+charter: https://apollyonalignment.com/governance/charter/
